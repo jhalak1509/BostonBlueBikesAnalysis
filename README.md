@@ -13,3 +13,8 @@ The objective of our database project would to be find out the rider details aga
 
 DATA MODEL: ArangoDB Multi-Model (Graph + Document + Key value) 
 PLATFORM: Local
+
+<img width="1195" alt="Screen Shot 2023-04-20 at 12 50 58 PM" src="https://user-images.githubusercontent.com/114832299/233434891-467ca9dd-996e-4bce-baf0-2cb8cf7adbb4.png">
+
+
+<img width="1182" alt="Screen Shot 2023-04-20 at 12 51 25 PM" src="https://user-images.githubusercontent.com/114832299/233434931-c84ec4b5-80e2-4f30-a7db-4d6239c4323f.png">
